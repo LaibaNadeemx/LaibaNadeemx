@@ -1,10 +1,18 @@
-# 👋 Hi, I'm Laiba!
+# Laiba Nadeem
 
-🎨 A creative and detail-oriented **UI/UX designer**  
-📱 Passionate about crafting clean, intuitive, and user-friendly interfaces  
-✨ Inspired by simplicity, driven by aesthetics, and always learning  
-🧠 Exploring design systems, user flows, and modern digital experiences
+UI/UX Designer in progress  
+Focused on clean, functional, and user-friendly designs.
 
 ---
 
-*More designs coming soon. Stay tuned!*
+## About Me
+
+- Designing modern UI for web and mobile platforms  
+- Exploring design systems, user flows, and prototypes  
+- Passionate about usability and visual clarity
+
+---
+
+## Contact
+
+Email: nadeemlaiba83@gmail.com
